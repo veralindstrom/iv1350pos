@@ -1,0 +1,8 @@
+se.kth.iv350.pos.integration.ItemIdNotFoundException: ItemID 7 was not found in Inventory
+	at se.kth.iv350.pos.controller.Controller.registerItem(Controller.java:71)
+	at se.kth.iv350.pos.view.View.runFakeExecution(View.java:74)
+	at se.kth.iv350.pos.startup.Main.main(Main.java:35)
+se.kth.iv350.pos.integration.ItemIdNotFoundException: ItemID 7 was not found in Inventory
+	at se.kth.iv350.pos.controller.Controller.registerItem(Controller.java:71)
+	at se.kth.iv350.pos.view.View.runFakeExecution(View.java:74)
+	at se.kth.iv350.pos.startup.Main.main(Main.java:35)
