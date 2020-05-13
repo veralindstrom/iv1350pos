@@ -1,3 +1,4 @@
 # iv1350pos
-iv1350-JAVA-pos: 
-Använd iv1350-JAVA-pos !!!!!!!!!!!!!!!!!
+Inför sem 4: iv350.pos.exceptions
+
+Inför sem 5: iv1350.pos.UPDATED
